@@ -2,7 +2,7 @@ baseURL = 'https://lamashtancult.com/'
 locale = 'en-us'
 defaultContentLanguage = 'en-us'
 title = 'Lamastan Cult Blog'
-disableKinds = ['taxonomy']
+disableKinds = ['taxonomy', 'taxonomyTerm']
 
 [menu]
   [[menu.main]]

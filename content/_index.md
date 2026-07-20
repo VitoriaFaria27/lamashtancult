@@ -6,6 +6,6 @@ draft: false
 ---
 ## Hi, folks, this is Vitoria's blog
 
-Something something testing this thing, here's a game pic
+Something something stuff something testing this thing, here's a game pic
 
 ![Some grid map action](/images/tabletopmain.gif) 

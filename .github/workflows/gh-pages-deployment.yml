@@ -23,7 +23,7 @@ jobs:
       run: hugo
 
     - name: Create CNAME
-      run: echo 'lamashtancult.blog' >  ./public/CNAME
+      run: echo 'lamashtancult.com' >  ./public/CNAME
 
     - name: Deploy                               
       uses: peaceiris/actions-gh-pages@v2

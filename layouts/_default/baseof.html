@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ .Title }}</title>
+  <link rel="stylesheet" href="https://cdn.simplecss.org/simple.css">
+  <link rel="icon" href="/images/favicon.png">
+  {{ with .OutputFormats.Get "rss" -}}
+      {{ printf `<link rel=%q type=%q href=%q title=%q>` .Rel .MediaType.Type .Permalink site.Title | safeHTML }}
+  {{ end }}
+
+
+  <meta name="fediverse:creator" content="@gmgall@ursal.zone" />
+  <!-- Open Graph -->
+  <meta property="og:title" content="Crie a Porra de um Blog">
+  <meta property="og:image" content="https://crieaporradeum.blog/images/card.png">
+  <meta property="og:url" content="https://crieaporradeum.blog/">
+  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="Crie a Porra de um Blog">
+  <meta property="og:description" content="Crie a porra de um blog agora. É a melhor coisa que você pode fazer na web.">
+</head>
+<body>
+  <header>
+    {{ partial "nav.html" . }}
+    <h1>{{ .Title }}</h1>
+    <p>{{ .Page.Params.Subtitle }}</p>
+  </header>
+  {{ block "main" . }}{{ end }}
+  <footer>
+    <p><i>Crie a Porra de um Blog</i> é uma adaptação de <a href="https://web.archive.org/web/20241214200233/https://startafuckingblog.com/">Start a Fucking Blog</a> por <a href="https://www.gmgall.net/">Guilherme Magalhães Gall</a>.</p>
+  </footer>
+</body>
+</html>

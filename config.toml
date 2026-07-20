@@ -1,0 +1,18 @@
+baseURL = 'https://lamashtancult.blog/'
+languageCode = 'en-us'
+defaultContentLanguage = 'en-us'
+title = 'Lamastan Cult Blog'
+disableKinds = ['taxonomy', 'taxonomyTerm']
+
+[menu]
+  [[menu.main]]
+        identifier = 'blog'
+        name = '📝 Blog'
+        url = '/posts/'
+        weight = 2
+
+  [[menu.main]]
+        identifier = 'home'
+        name = '🏠 Home'
+        url = '/'
+        weight = 1

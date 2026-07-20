@@ -1,8 +1,8 @@
 baseURL = 'https://lamashtancult.com/'
-languageCode = 'en-us'
+locale = 'en-us'
 defaultContentLanguage = 'en-us'
 title = 'Lamastan Cult Blog'
-disableKinds = ['taxonomy', 'taxonomyTerm']
+disableKinds = ['taxonomy']
 
 [menu]
   [[menu.main]]

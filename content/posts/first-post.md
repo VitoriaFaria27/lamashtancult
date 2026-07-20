@@ -7,4 +7,4 @@ draft: false
 ---
 Something something.
 
-> SOmething here as well.
+> Something here as well.

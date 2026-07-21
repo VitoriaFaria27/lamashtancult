@@ -9,18 +9,139 @@
     <webMaster>Page(/_index.md)</webMaster>
     <lastBuildDate>Mon, 20 Jul 2026 18:43:43 -0300</lastBuildDate><atom:link href="https://lamashtancult.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Fisrt test post</title>
-      <link>https://lamashtancult.com/posts/first-post/</link>
-      <pubDate>Mon, 20 Jul 2026 18:43:43 -0300</pubDate>
-      <author>Page(/posts/first-post.md)</author>
-      <guid>https://lamashtancult.com/posts/first-post/</guid>
-      <description>&lt;p&gt;Something something.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Something here as well.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Something else.&lt;/p&gt;
-&lt;/blockquote&gt;
+      <title>Hunters Den</title>
+      <link>https://lamashtancult.com/posts/hunters-den/</link>
+      <pubDate>Tue, 21 Jul 2026 11:21:07 -0300</pubDate>
+      <author>Page(/posts/hunters-den.md)</author>
+      <guid>https://lamashtancult.com/posts/hunters-den/</guid>
+      <description>&lt;p&gt;So, a couple of weeks ago I had a Draw Steel session in which shoving a moist basilisk&amp;rsquo;s tongue into a taxidermied dragon&amp;rsquo;s head didn&amp;rsquo;t actually make it come back alive and talk.&lt;/p&gt;
+&lt;p&gt;Moved by the absurdity of this, I decided to write a small dungeon in which this actually happens. For maximun gygaxian naturalism, there&amp;rsquo;s a contraption explaining why the tongue is moist still.&lt;/p&gt;
+&lt;p&gt;Most creatures are placed by ye olde BX random monster tables for level 3 monsters. I&amp;rsquo;m especially fond of the gelatinous cube stuck in a 2x2 outhhouse.&lt;/p&gt;
+&lt;h1 id=&#34;the-hunters-den&#34;&gt;The Hunter&amp;rsquo;s Den&lt;/h1&gt;
+&lt;h2 id=&#34;by-vitoria-faria&#34;&gt;By Vitoria Faria&lt;/h2&gt;
+&lt;p&gt;The legendary hunter, &lt;em&gt;Hunter Argent&lt;/em&gt;, lived in a guarded lodge atop of a hill, rumored to have slain several monsters and achieving fame and fortune, few dared to visit his enclave. One day he and his followers mysteriously vanished, and words spread about a rambunctious clan of goblinoids wandering the hill, planning to sack the old lodge.&lt;/p&gt;
+&lt;p&gt;The goblinoids are a small band of thouls and hobgoblins. The thouls entered the underground through the old well, while the hobgoblins investigate the lodge, both groups act like methodical and careful thieves, each member having access to level 3 thief skills. A few other monsters took refuge in the lodge and underground passages during the last few weeks, but none had a good reason to loot it, so the area looks mostly untouched.&lt;/p&gt;
+&lt;h2 id=&#34;rumors&#34;&gt;Rumors&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Below the lodge lies a cold subterraneous river. &lt;strong&gt;True&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;The old hunter would keep some monsters alive, so they could be sold on the black market. &lt;strong&gt;True&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;The hunter and his crew had holy powers, now captured demons roam free under the lodge. &lt;strong&gt;False&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Not just a hunter, he was also a famous dragon slayer. &lt;strong&gt;True&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;A living dragon of incalculable value can be found, dormant, under the lodge. &lt;strong&gt;True&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;The old hunter was actually a cult leader, the well just beside the lodge leads to worlds beyond our own. &lt;strong&gt;Partially true&lt;/strong&gt;, the well is actually a secondary passage to the underground, but there was no cult.&lt;/li&gt;
+&lt;li&gt;The goblinoids are after a hidden artifact of untold power. &lt;strong&gt;False&lt;/strong&gt;, they are only here after treasure.&lt;/li&gt;
+&lt;li&gt;The hunter&amp;rsquo;s trophies come alive at night. &lt;strong&gt;Partially true&lt;/strong&gt;, one of them can indeed come alive, but it has nothing to do with the time of day.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&#34;https://lamashtancult.com/images/huntersden1.png&#34; alt=&#34;lodge and underground map&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;the-lodge-grounds&#34;&gt;The Lodge Grounds&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Old Well,&lt;/strong&gt; crystalline water can be seen, heard and smelled, about 20 feet below, and seems to run like a river.
+&lt;ol&gt;
+&lt;li&gt;If climbed down, it leads down to area 11.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Outhouse&lt;/strong&gt;, lost its smell some time ago.
+&lt;ol&gt;
+&lt;li&gt;Hidden under some straw, a locked trapdoor, that leads to a spiral staircase that leads to area 10.&lt;/li&gt;
+&lt;li&gt;The entire outhouse is fully filled by a living &lt;strong&gt;gelatinous cube&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Entry Foyer&lt;/strong&gt;, features taxidermied animals as decoration, as small as a trout and as big as a bear.
+&lt;ol&gt;
+&lt;li&gt;Joined to a small corridor that leads to areas 4, 5, 6 and 7.&lt;/li&gt;
+&lt;li&gt;The animals can be sold, 10 gp each, totalling 70gp.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Study and Library&lt;/strong&gt;, features many bookcases and a wooden study table.
+&lt;ol&gt;
+&lt;li&gt;North, door to area 5.&lt;/li&gt;
+&lt;li&gt;East, door to area 3.&lt;/li&gt;
+&lt;li&gt;A small jewel case is trapped, shooting a deadly &lt;strong&gt;poisonous needle&lt;/strong&gt; from inside if forced open, containing a 500gp emerald and key to trapdoor in area 2.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Hunter&amp;rsquo;s Room&lt;/strong&gt;, features a beautifully carved oak bed, and single bookcase.
+&lt;ol&gt;
+&lt;li&gt;East, door to area 3.&lt;/li&gt;
+&lt;li&gt;South, door to area 4.&lt;/li&gt;
+&lt;li&gt;Pulling out a book, &lt;em&gt;Savory Underground&lt;/em&gt;, a cookbook describing how to prepare meat from underground creatures, reveals the key to trapdoor in area 7.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dining Room&lt;/strong&gt;, features a well furnished dining table.
+&lt;ol&gt;
+&lt;li&gt;North, door to area 7.&lt;/li&gt;
+&lt;li&gt;West, door to area 3.&lt;/li&gt;
+&lt;li&gt;3 &lt;strong&gt;hobgoblins&lt;/strong&gt; carefully investigate the area. If morale breaks, will scream and warn thouls in area 8.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Kitchen&lt;/strong&gt;, still features a large cooktop with a marble covering, a couple of barrels with salted, preserved meat, and several wooden cabinets holding all sorts of cookware.
+&lt;ol&gt;
+&lt;li&gt;South, door to area 3.&lt;/li&gt;
+&lt;li&gt;Locked trapdoor, leads to a spiral staircase that leads to area 8.&lt;/li&gt;
+&lt;li&gt;One of the barrels, with a couple of dead rats inside, is &lt;strong&gt;poisoned&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;the-underground&#34;&gt;The Underground&lt;/h1&gt;
+&lt;ol start=&#34;8&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Antechamber&lt;/strong&gt;, seemingly barren, stone brick walls. The smell of cold humidity permeates the air.
+&lt;ol&gt;
+&lt;li&gt;Spiral staircase leads to area 7.&lt;/li&gt;
+&lt;li&gt;East, unevenly spaced bricks can be pushed sideways, revealing a secret passage to areas 10 and 11. The smell of humidity is stronger here.&lt;/li&gt;
+&lt;li&gt;South, open passage leads to area 13.&lt;/li&gt;
+&lt;li&gt;West, open passage to area 9. Smells like rot and mold.&lt;/li&gt;
+&lt;li&gt;4 &lt;strong&gt;thouls&lt;/strong&gt; carefully investigate the area.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dungeon&lt;/strong&gt;, iron bars hold 3 cells north and 3 cells south. All cells locked, furnished with simple, mostly broken wood benches and buckets, some have piles of skeletons inside.
+&lt;ol&gt;
+&lt;li&gt;The north westmost cell holds an emaciated &lt;strong&gt;wererat&lt;/strong&gt;, it has only 3 hit points, a -1 penalty to hit and damage until fully fed, and begs for freedom. Way too hungry and weakened to remember anything. If fed and given an opportunity to rest, will only remember being captured by the hunter&amp;rsquo;s band in a swamp close by, it has permanently lost sense of passage of time.&lt;/li&gt;
+&lt;li&gt;East, passage to area 8.&lt;/li&gt;
+&lt;li&gt;South, eastmost cell has a claw and hand dug passage to area 12, hidden with straw and a broken wooden bench. Under the same bench, there is 5gp hidden.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pool’s Antechamber&lt;/strong&gt;, seemingly barren, stone brick walls. The smell of cold humidity permeates the air. There&amp;rsquo;s a human skeleton laid on the passage, noticeably missing its skull.
+&lt;ol&gt;
+&lt;li&gt;South, passage to areas 8, which is obvious from this side, and area 11. A loose stone brick on the ground will activate a &lt;strong&gt;blade&lt;/strong&gt; cutting horizontally at the middle of the passage, beheading its victim, a death save is allowed, halflings or similarly sized adventures can pass with no issues, taller adventurers may crawl or avoid the brick.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Underground Pool&lt;/strong&gt;, crystalline, cold water runs east to west in a beautifully carved, fully circular, hole in the ground rock.
+&lt;ol&gt;
+&lt;li&gt;The ceiling opens to area 1.&lt;/li&gt;
+&lt;li&gt;Swimming the pool down while holding your breath leads to area 12.&lt;/li&gt;
+&lt;li&gt;An &lt;strong&gt;ochre jelly&lt;/strong&gt; lies just beside the pool.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Underground River&lt;/strong&gt;, cold water running east to west, most of the river is completely submerged, holding your breath is needed to swim across.
+&lt;ol&gt;
+&lt;li&gt;Swimming northwest leads to area 9.&lt;/li&gt;
+&lt;li&gt;Swimming southwest leads to area 14.&lt;/li&gt;
+&lt;li&gt;Swimming east and up leads to area 11.&lt;/li&gt;
+&lt;li&gt;A lost, very confused, &lt;strong&gt;crocodile&lt;/strong&gt; swims these waters. Will not attack if unprovoked.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Trophy Chamber,&lt;/strong&gt; features:
+&lt;ol&gt;
+&lt;li&gt;A still moist basilisk tongue, removing it reveals an iron grate that smells like fresh water, if forced open, can be crawled through by a halfling or other similarly small adventurer. Leading west to area 14.&lt;/li&gt;
+&lt;li&gt;An iron bull skull of an unusual size, inside its orbits lies the keys to cells in area 9.&lt;/li&gt;
+&lt;li&gt;A taxidermied Tyrannosaurus rex foot.&lt;/li&gt;
+&lt;li&gt;A taxidermied dragon head, missing its tongue. Inserting the basilisk tongue inside the mouth magically attaches the two, which briefly comes back to life and pleads the adventurers to avenge “his sister”, the stone shifts, revealing a southmost passage in the chamber, leading to area 15.&lt;/li&gt;
+&lt;li&gt;Each trophy can be sold for around 1000gp, if the right buyer is found.&lt;/li&gt;
+&lt;li&gt;A &lt;strong&gt;doppelganger&lt;/strong&gt; hides here, taking the form of a taxidermied bugbear. It is afraid of the thouls in area 8 and will only attack once they retreat or are slain.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Moisture Contraption&lt;/strong&gt;, with a water wheel linked to a wood and iron contraption with metal tubes coming out of it, moisture is moved from areas 12 to 13.
+&lt;ol&gt;
+&lt;li&gt;North, connects to underground river, area 12. One of the few places the river has an actual breathable surface.&lt;/li&gt;
+&lt;li&gt;East, iron grate that leads to area 13. If forced open, can be crawled through by a halfling or other similarly small adventurer.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dormant Sister&lt;/strong&gt;, a circular stone chamber, four huge iron chains hold a dormant &lt;strong&gt;white dragon&lt;/strong&gt; in place.
+&lt;ol&gt;
+&lt;li&gt;The dragon comes back to her senses once anyone enters her chamber, with a mind still dulled by sleep, she can be surprised with a 3-in-6 chance. Once surprise and initiative is resolved, she attacks with her breath weapon on her first round, out of fright, but is open to negotiation afterwards.&lt;/li&gt;
+&lt;li&gt;The chains are enchanted and can&amp;rsquo;t be broken easily, but once free from them, the dragon can destroy the ceiling and fly away with ease.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
 </description>
     </item>
     

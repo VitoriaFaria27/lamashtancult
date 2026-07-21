@@ -12,7 +12,7 @@ Expect some thoughts on elf games.
 
 Posts themselves are [here](https://lamashtancult.com/posts/).
 
-## About
+### About
 
 I'm Vitoria, the Lamashtan Mage, a dorky succubus way too much into tabletop gaming. Here are some of my [socials](https://linktr.ee/VitoriaFaria).
 

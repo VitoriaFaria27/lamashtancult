@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
+  <url>
+    <loc>https://lamashtancult.com/posts/first-post/</loc>
+    <lastmod>2026-07-20T18:43:43-03:00</lastmod>
+  </url><url>
+    <loc>https://lamashtancult.com/</loc>
+    <lastmod>2026-07-20T18:43:43-03:00</lastmod>
+  </url><url>
+    <loc>https://lamashtancult.com/posts/</loc>
+    <lastmod>2026-07-20T18:43:43-03:00</lastmod>
+  </url>
 </urlset>

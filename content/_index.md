@@ -17,3 +17,11 @@ Posts themselves are [here](https://lamashtancult.com/posts/).
 I'm Vitoria, the Lamashtan Mage, a dorky succubus way too much into tabletop gaming. Here are some of my [socials](https://linktr.ee/VitoriaFaria).
 
 ![Endea's pic](/images/endea1.png)
+
+> Bring power to outcasts and the downtrodden, 
+>
+> indoctrinate others in Lamashtu’s teachings, 
+>
+> make the beautiful monstrous, 
+>
+> reveal the corruption and flaws in all things.

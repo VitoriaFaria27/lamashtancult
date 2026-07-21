@@ -1,5 +1,5 @@
 # My blog
 
-Just another [Hugo](https://gohugo.io/) generated blog.
+Repo for my site [https://lamashtancult.com/](https://lamashtancult.com/).
 
-Supposedly on lamashtancult.com
+A simple [Hugo](https://gohugo.io/) generated blog.

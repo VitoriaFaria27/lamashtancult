@@ -7,9 +7,9 @@ subtitle: a small dungeon for one shots
 ---
 So, a couple of weeks ago I had a Draw Steel session in which shoving a moist basilisk's tongue into a taxidermied dragon's head didn't actually make it come back alive and talk.
 
-Moved by the absurdity of this, I decided to write a small dungeon in which this actually happens. For maximun gygaxian naturalism, there's a contraption explaining why the tongue is moist still.
+Moved by the absurdity of this, I decided to write a small dungeon in which this actually happens. For maximum gygaxian naturalism, there's a contraption explaining why the tongue is moist still.
 
-Most creatures are placed by ye olde BX random monster tables for level 3 monsters. I'm especially fond of the gelatinous cube stuck in a 2x2 outhhouse.
+Most creatures are placed by ye olde BX random tables for level 3 monsters. I'm especially fond of the gelatinous cube stuck in a 2x2 outhouse.
 # The Hunter's Den
 
 ## By Vitoria Faria

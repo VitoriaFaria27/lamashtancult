@@ -17,7 +17,7 @@ OSR grognards will note that most (but not all) of the changes improve lower lev
 
 _Faaaaaaaae!!!_
 
-For a long time, I’ve had a huge desire to run the hexcrawl from the Dolmenwood campaign book, a setting that is incredibly dense and rich in detail and relationships, featuring that [faerie theme I love so much and find so fitting for this type of game](https://medium.com/osr-e-contos-de-fadas-ddf57d3b4ee7). There was no way I wouldn't be intrigued by the concept.
+For a long time, I’ve had a huge desire to run the hexcrawl from the Dolmenwood campaign book, a setting that is incredibly dense and rich in detail and relationships, featuring that [faerie theme I love so much and find so fitting for this type of game](https://medium.com/@vitoriafaria/osr-e-contos-de-fadas-ddf57d3b4ee7). There was no way I wouldn't be intrigued by the concept.
 
 One problem, however, is that Dolmenwood, as a system—is a B/X clone that’s a bit too "pure" for my players. I’ve tried running OSE almost RAW (Rules As Written) at home, and it became clear that even those who understood the premise didn't exactly enjoy the fragility, the lack of mechanical options at lower levels, and the constant need to manage hirelings.
 
@@ -100,7 +100,7 @@ Forest-dwelling humanoids whose skin shares a symbiotic relationship with plants
 
 _We have knights at home_
 
-Continuing the [series on how I plan to use Beyond the Wall to run the Dolmenwood sandbox](https://medium.com/dolmenwood-em-beyond-the-wall-parte-1-ancestralidades-221628718872), let’s now address the topic of player character classes.
+Continuing the [series on how I plan to use Beyond the Wall to run the Dolmenwood sandbox](https://medium.com/@vitoriafaria/dolmenwood-em-beyond-the-wall-parte-1-ancestralidades-221628718872), let’s now address the topic of player character classes.
 
 ## Classes and Playbooks
 

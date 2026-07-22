@@ -9,7 +9,7 @@ So, a few months ago I wrote a guide of sorts of how to run *Dolmenwood* using *
 
 ### Quick note on playstyle considerations
 
-OSR grognards will note that most (but not all) of the changes improve lower level party survivability and independence. Some might believe this undermines the old-school mode of play, I don't think this holds true, at least not for me and my friends. They are mostly smart and mature, having some extra HP won't mean they will simply *Leeroy Jenkins* encounters, and they don't need to be straightjacketed by bad stats in order to interact with the living world diegetically. They are aware that even if they have a 19 on a roll-under stat, they will still have better chances if they don't need to roll at all. The power boost just means they don't feel required to be super shy and reactive all the time, which does happens when I run raw BX.
+OSR grognards will note that most (but not all) of the changes improve lower level party survivability and independence. Some might believe this undermines the old-school mode of play, I don't think this holds true, at least not for me and my friends. They are mostly smart and mature, having some extra HP won't mean they will simply *Leeroy Jenkins* encounters, and they don't need to be straightjacketed by bad stats in order to interact with the living world diegetically. They are aware that even if they have a 19 on a roll-under stat, they will still have better chances if they don't need to roll at all. The power boost just means they don't feel required to be super shy and reactive all the time, which does happen when I run raw BX.
 
 # Dolmenwood in Beyond the Wall — Part 1 — Ancestries
 

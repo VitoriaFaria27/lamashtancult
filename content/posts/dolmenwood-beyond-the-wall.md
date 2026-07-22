@@ -156,9 +156,9 @@ Spells of other ranks — Become rituals with a level equal to twice the rank mi
 
 ### New Concepts
 
-A subjective issue I have with *Dolmenwood* is that, given the rigidity of the classes, there are many concepts I feel *should* be there but simply aren't. This likely stems from a thematic decision by the author—one I respect—but I’m also old enough to play around with things on my own terms.
+A subjective issue I have with *Dolmenwood* is that, given the rigidity of the classes, there are many concepts I feel *should* be there but simply aren't. This likely stems from a thematic decision by the author, one I respect, but I’m also old enough to play around with things on my own terms.
 
-Using *Beyond the Wall* guides—in addition to those previously discussed, allows us to introduce different archetypes the game didn't originally anticipate. A simple, clear example: almost all healing magic in *Dolmenwood* comes from divine magic, which can only be used by classes fully tied to what is essentially the Catholic Church. I find this deeply uncomfortable, and I’m sure many of my players would feel the same way. The Witch’s Apprentice guide could offer players something closer to an Earthsea village witch, a concept so fitting for the setting that I find it strange it doesn't already exist. I know the word "witch" carries other connotations in this setting, but I see nothing preventing the existence of "sorceresses," "wise women," "practitioners of the old arts," and so on.
+Using *Beyond the Wall* guides, in addition to those previously discussed, allows us to introduce different archetypes the game didn't originally anticipate. A simple, clear example: almost all healing magic in *Dolmenwood* comes from divine magic, which can only be used by classes fully tied to what is essentially the Catholic Church. I find this deeply uncomfortable, and I’m sure many of my players would feel the same way. The Witch’s Apprentice guide could offer players something closer to an Earthsea village witch, a concept so fitting for the setting that I find it strange it doesn't already exist. I know the word "witch" carries other connotations in this setting, but I see nothing preventing the existence of "sorceresses," "wise women," "practitioners of the old arts," and so on.
 
 ### New Character Playbooks
 

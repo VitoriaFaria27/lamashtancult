@@ -5,7 +5,7 @@ author: Vitoria Faria
 draft: false
 subtitle: "There is another fae themed game"
 ---
-So, a few months ago I wrote a guide of sorts of how to run *Dolmenwood* using *Beyond the Wall* in my Medium account, I wrote that in Portuguese, yet had some gringo friends asking for it, so here's a mostly *Google Translate* version of it (I did review it and fixed most of the errors manually, but let me know if you find any other).
+So, a few months ago I wrote a guide of sorts of how to run *Dolmenwood* using *Beyond the Wall* in my Medium account, I wrote that in Portuguese, yet had some gringo friends asking for it, so here's a translated version of it.
 
 ### Quick note on playstyle considerations
 

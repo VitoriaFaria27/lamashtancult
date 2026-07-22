@@ -9,6 +9,94 @@
     <webMaster>Page(/_index.md)</webMaster>
     <lastBuildDate>Mon, 20 Jul 2026 18:43:43 -0300</lastBuildDate><atom:link href="https://lamashtancult.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Running Dolmenwood with Beyond the Wall</title>
+      <link>https://lamashtancult.com/posts/dolmenwood-beyond-the-wall/</link>
+      <pubDate>Wed, 22 Jul 2026 11:04:37 -0300</pubDate>
+      <author>Page(/posts/dolmenwood-beyond-the-wall.md)</author>
+      <guid>https://lamashtancult.com/posts/dolmenwood-beyond-the-wall/</guid>
+      <description>&lt;p&gt;So, a few months ago I wrote a guide of sorts of how to run &lt;em&gt;Dolmenwood&lt;/em&gt; using &lt;em&gt;Beyond the Wall&lt;/em&gt; in my Medium account, I wrote that in Portuguese, yet had some gringo friends asking for it, so here&amp;rsquo;s a mostly &lt;em&gt;Google Translate&lt;/em&gt; version of it (I did review it and fixed most of the errors manually, but let me know if you find any other).&lt;/p&gt;
+&lt;h3 id=&#34;quick-note-on-playstyle-considerations&#34;&gt;Quick note on playstyle considerations&lt;/h3&gt;
+&lt;p&gt;OSR grognards will note that most (but not all) of the changes improve lower level party survivability and independence. Some might believe this undermines the old-school mode of play, I don&amp;rsquo;t think this holds true, at least not for me and my friends. They are mostly smart and mature, having some extra HP won&amp;rsquo;t mean they will simply &lt;em&gt;Leeroy Jenkins&lt;/em&gt; encounters, and they don&amp;rsquo;t need to be straightjacketed by bad stats in order to interact with the living world diegetically. They are aware that even if they have a 19 on a roll-under stat, they will still have better chances if they don&amp;rsquo;t need to roll at all. The power boost just means they don&amp;rsquo;t feel required to be super shy and reactive all the time, which does happens when I run raw BX.&lt;/p&gt;
+&lt;h1 id=&#34;dolmenwood-in-beyond-the-wall--part-1--ancestries&#34;&gt;Dolmenwood in Beyond the Wall — Part 1 — Ancestries&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;https://miro.medium.com/v2/0*E5yTrGwICZR3FRxJ.jpg&#34; alt=&#34;Promotional image of Dolmenwood; some fae are showing offerings to a larger fae creature that looks like a faun&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Faaaaaaaae!!!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;For a long time, I’ve had a huge desire to run the hexcrawl from the Dolmenwood campaign book, a setting that is incredibly dense and rich in detail and relationships, featuring that &lt;a href=&#34;https://medium.com/osr-e-contos-de-fadas-ddf57d3b4ee7&#34;&gt;faerie theme I love so much and find so fitting for this type of game&lt;/a&gt;. There was no way I wouldn&amp;rsquo;t be intrigued by the concept.&lt;/p&gt;
+&lt;p&gt;One problem, however, is that Dolmenwood, as a system—is a B/X clone that’s a bit too &amp;ldquo;pure&amp;rdquo; for my players. I’ve tried running OSE almost RAW (Rules As Written) at home, and it became clear that even those who understood the premise didn&amp;rsquo;t exactly enjoy the fragility, the lack of mechanical options at lower levels, and the constant need to manage hirelings.&lt;/p&gt;
+&lt;p&gt;On the other hand, I’ve been running quite a few &lt;em&gt;Beyond the Wall&lt;/em&gt; one-shots lately. It’s impressive what a difference a d10 Hit Die, Luck Points, and skills with better odds than a coin flip make, especially in a game that is still relatively similar and carries that same fantasy aesthetic involving creatures from the faerie realm.&lt;/p&gt;
+&lt;p&gt;One player even remarked that it was a shame we never took &lt;em&gt;Beyond the Wall&lt;/em&gt; beyond a single session; it would be interesting to see a long-term campaign using the system.&lt;/p&gt;
+&lt;p&gt;Putting it all together, the logical next step was to combine business with pleasure and run Dolmenwood using the &lt;em&gt;Beyond the Wall&lt;/em&gt; system.&lt;/p&gt;
+&lt;h2 id=&#34;adaptations&#34;&gt;Adaptations&lt;/h2&gt;
+&lt;p&gt;Although similar, the games are not identical, so some elements do not translate directly on a one-to-one basis. Dolmenwood introduces several new ancestries and classes that capture the flavor of its setting.&lt;/p&gt;
+&lt;p&gt;Let’s focus on ancestries for today.&lt;/p&gt;
+&lt;h3 id=&#34;ancestries&#34;&gt;Ancestries&lt;/h3&gt;
+&lt;p&gt;Humans in Dolmenwood have their own special traits; one is &lt;em&gt;Decisive&lt;/em&gt;, which improves their initiative. To keep things as idiomatic as possible for &lt;em&gt;Beyond the Wall&lt;/em&gt; without overcomplicating matters, I decided to use the inverse of this trait as a weakness for Dolmenwood’s other mortal ancestries. Since initiative is static in the target game, this is a significant weakness that I believe sufficiently balances out the positive traits. As for the faerie ancestries, most already possess a notable set of weaknesses, so I did not deem it necessary to add another.&lt;/p&gt;
+&lt;p&gt;The Elves of &lt;em&gt;Beyond the Wall&lt;/em&gt; already closely resemble those of Dolmenwood—creatures closer to fairy-tale figures than the Tolkien-esque figures found in most settings—so I believe they require no significant adjustments.&lt;/p&gt;
+&lt;p&gt;I characterized the remaining ancestries as follows:&lt;/p&gt;
+&lt;h3 id=&#34;grimalkin&#34;&gt;Grimalkin&lt;/h3&gt;
+&lt;p&gt;They are essentially an excuse to play as the Cheshire Cat from &lt;em&gt;Alice in Wonderland&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Agelessness&lt;/strong&gt; — Grimalkins retain their youth and vigor throughout their long lives; some say they are actually immortal. They automatically resist all forms of non-magical disease and poison.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Autumnal Folk&lt;/strong&gt; — Grimalkins are beings of the faerie realm; fate does not always favor them in the mortal world, so they possess one less Luck Point than they normally would.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Small Stature&lt;/strong&gt; — Grimalkins are small creatures, so they cannot use large weapons that deal d10 damage.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hard to Catch&lt;/strong&gt; — Grimalkins are small, granting them a +1 bonus to AC. &lt;strong&gt;Vulnerable to Meteoric Iron&lt;/strong&gt; — As creatures of the fey realm, they take double damage from any weapon made of meteoric iron.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Chester Form&lt;/strong&gt; — In one round, it can transform into a Small Animal (cat). It can also transform back in one round.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Wilder Form&lt;/strong&gt; — Once per day, if in a melee encounter and below half its hit points, it can heal 2d6 hit points and assume the following characteristics: Opponents who cannot see the invisible suffer a -2 penalty when attacking it. Armor Class 13. Two natural claw attacks with +2 to hit and d4 damage. They become unable to distinguish friend from foe. After 2d4 rounds, they return to their standard form.&lt;/p&gt;
+&lt;h3 id=&#34;woodgrue&#34;&gt;Woodgrue&lt;/h3&gt;
+&lt;p&gt;Small fey goblins with bat-like faces.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Small Stature&lt;/strong&gt; — Woodgrues are small creatures; therefore, they cannot use Large weapons that deal d10 damage.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hard to Catch&lt;/strong&gt; — Woodgrues are small, granting them +1 AC.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Enchanted Melody&lt;/strong&gt; — They can cast &lt;em&gt;False Friend&lt;/em&gt; once per day by chanting the spell as a melody while playing a musical instrument.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Compulsive Jubilation&lt;/strong&gt; — In the presence of festivities or revelry involving dance and music, Woodgrues feel a strong compulsion to join in. They must make a saving throw against polymorph; on a failure, they continue dancing and singing for 2d4 rounds. Even if struck or taking physical damage, the partying continues.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vulnerable to Meteoric Iron&lt;/strong&gt; — As creatures of the fey realm, they take double damage from any weapon made of meteoric iron.&lt;/p&gt;
+&lt;h3 id=&#34;breggle&#34;&gt;Breggle&lt;/h3&gt;
+&lt;p&gt;Goat-folk whose horns grow as they rise in social standing.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Indecisive&lt;/strong&gt; — They have -1 to initiative.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Thick Coat&lt;/strong&gt; — They gain +1 AC if unarmored or wearing leather armor.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Intimidating Gaze&lt;/strong&gt; — Starting at 4th level, they can cast &lt;em&gt;Frightful Presence&lt;/em&gt; once per day.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Horns&lt;/strong&gt; — Starting at 4th level, they possess a natural weapon dealing d4 damage.&lt;/p&gt;
+&lt;h3 id=&#34;mossling&#34;&gt;Mossling&lt;/h3&gt;
+&lt;p&gt;Forest-dwelling humanoids whose skin shares a symbiotic relationship with plants and fungi.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Indecisive&lt;/strong&gt; — They have -1 to initiative.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Symbiotic Skin&lt;/strong&gt; — Metal armor negatively affects the fungi and moss growing on their skin. Mosslings cannot wear armor made of metal. &lt;strong&gt;Knack&lt;/strong&gt; — Mosslings start with one trick: Speak with Animals or Druid’s Touch.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mossling Resilience&lt;/strong&gt; — Mosslings gain a +2 bonus on saving throws against poisons and spores, and a +1 bonus on all other saving throws.&lt;/p&gt;
+&lt;h1 id=&#34;dolmenwood-in-beyond-the-wall--part-2--classes-and-playbooks&#34;&gt;Dolmenwood in Beyond the Wall — Part 2 — Classes and Playbooks&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;https://miro.medium.com/v2/0*Dafa5JvFMDU5lEGl.jpeg&#34; alt=&#34;Promotional image of Dolmenwood showing a female knight challenging a giant serpentine creature&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;We have knights at home&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Continuing the &lt;a href=&#34;https://medium.com/dolmenwood-em-beyond-the-wall-parte-1-ancestralidades-221628718872&#34;&gt;series on how I plan to use Beyond the Wall to run the Dolmenwood sandbox&lt;/a&gt;, let’s now address the topic of player character classes.&lt;/p&gt;
+&lt;h2 id=&#34;classes-and-playbooks&#34;&gt;Classes and Playbooks&lt;/h2&gt;
+&lt;p&gt;The two games take very different approaches to character classes. Dolmenwood features nine distinct and rigid classes, each with unique, decoupled subsystems and its own flavor and role within the setting, whereas Beyond the Wall has only three classes. These are almost purely mechanical and share a unified skill system.&lt;/p&gt;
+&lt;p&gt;In Beyond the Wall, the role of adding flavor and identity falls not to the classes themselves, but to the Character Playbooks. For those just joining us: Playbooks function as a &amp;ldquo;lifepath&amp;rdquo; system, where random rolls determine your attributes and traits as well as your biography, life experiences, and community. Although the process is random, the results are shaped by the central theme of the specific Playbook.&lt;/p&gt;
+&lt;p&gt;Thus, we don&amp;rsquo;t need separate classes for sorcerers, witches, and druids; instead, we can have various Playbooks for these concepts. Ultimately, they all result in a version of the core &amp;ldquo;Mage&amp;rdquo; class, yet each remains distinct thanks to the specific selection of skills and spells that emerge from the process.&lt;/p&gt;
+&lt;h3 id=&#34;quick-conversion&#34;&gt;Quick Conversion&lt;/h3&gt;
+&lt;p&gt;For those wishing to generate a character quickly while approximating Dolmenwood class concepts, I suggest using the following guides from the &lt;em&gt;Beyond the Wall&lt;/em&gt; core rulebook and the &lt;em&gt;Young and Seasoned Heroes&lt;/em&gt; supplement (which also has a Brazilian edition):&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Bard&lt;/em&gt;&lt;/strong&gt; — Local Performer&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Cleric&lt;/em&gt;&lt;/strong&gt; — Novice Templar&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Enchanter&lt;/em&gt;&lt;/strong&gt; — Elven Enchanter&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Fighter&lt;/em&gt;&lt;/strong&gt; — Village Hero&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Friar&lt;/em&gt;&lt;/strong&gt; — Zealous Acolyte&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Hunter&lt;/em&gt;&lt;/strong&gt; — Young Woodsman&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Knight&lt;/em&gt;&lt;/strong&gt; — Squire Without a Knight&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Magician&lt;/em&gt;&lt;/strong&gt; — Self-Taught Mage&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Thief&lt;/em&gt;&lt;/strong&gt; — Inexperienced Thief&lt;/p&gt;
+&lt;h3 id=&#34;about-faerie-magic&#34;&gt;About Faerie Magic&lt;/h3&gt;
+&lt;p&gt;At first glance, the Enchanter class seems the most distinct from the others, with its faerie magic comprising Glamours and Runes, a notion that would hold true if the target system featured only classic Vancian magic. Fortunately, &lt;em&gt;Beyond the Wall&lt;/em&gt; already employs a magic system that includes at-will cantrips and long-form rituals, alongside traditional Vancian spells. So, if you want to extend the native magic of &lt;em&gt;Beyond the Wall&lt;/em&gt; with the faerie magic of &lt;em&gt;Dolmenwood&lt;/em&gt;:&lt;/p&gt;
+&lt;p&gt;At-will Glamours — Become cantrips (Charisma check)&lt;/p&gt;
+&lt;p&gt;Daily Glamours — Become spells&lt;/p&gt;
+&lt;p&gt;Lesser Runes — Become spells&lt;/p&gt;
+&lt;p&gt;Greater Runes — Become level 7 rituals (Charisma check)&lt;/p&gt;
+&lt;p&gt;Mighty Runes — Become level 10 rituals (Charisma check)&lt;/p&gt;
+&lt;h3 id=&#34;magic-in-general&#34;&gt;Magic in general&lt;/h3&gt;
+&lt;p&gt;Of course, it is possible to convert classic arcane and divine spells as well; since both games are variations of classic D&amp;amp;D, this isn&amp;rsquo;t necessary for most spells, as they already have counterparts between the systems—but for those that don&amp;rsquo;t:&lt;/p&gt;
+&lt;p&gt;Rank 1 and 2 spells — Become spells.&lt;/p&gt;
+&lt;p&gt;Spells of other ranks — Become rituals with a level equal to twice the rank minus one, but never exceeding 10. For arcane spells, the check is Intelligence; for holy spells, the check is Wisdom.&lt;/p&gt;
+&lt;h3 id=&#34;new-concepts&#34;&gt;New Concepts&lt;/h3&gt;
+&lt;p&gt;A subjective issue I have with &lt;em&gt;Dolmenwood&lt;/em&gt; is that, given the rigidity of the classes, there are many concepts I feel &lt;em&gt;should&lt;/em&gt; be there but simply aren&amp;rsquo;t. This likely stems from a thematic decision by the author—one I respect—but I’m also old enough to play around with things on my own terms.&lt;/p&gt;
+&lt;p&gt;Using &lt;em&gt;Beyond the Wall&lt;/em&gt; guides—in addition to those previously discussed, allows us to introduce different archetypes the game didn&amp;rsquo;t originally anticipate. A simple, clear example: almost all healing magic in &lt;em&gt;Dolmenwood&lt;/em&gt; comes from divine magic, which can only be used by classes fully tied to what is essentially the Catholic Church. I find this deeply uncomfortable, and I’m sure many of my players would feel the same way. The Witch’s Apprentice guide could offer players something closer to an Earthsea village witch, a concept so fitting for the setting that I find it strange it doesn&amp;rsquo;t already exist. I know the word &amp;ldquo;witch&amp;rdquo; carries other connotations in this setting, but I see nothing preventing the existence of &amp;ldquo;sorceresses,&amp;rdquo; &amp;ldquo;wise women,&amp;rdquo; &amp;ldquo;practitioners of the old arts,&amp;rdquo; and so on.&lt;/p&gt;
+&lt;h3 id=&#34;new-character-playbooks&#34;&gt;New Character Playbooks&lt;/h3&gt;
+&lt;p&gt;Of course, we can use the &amp;ldquo;Creating Character Playbooks&amp;rdquo; chapter from the &lt;em&gt;Heroes Young and Old&lt;/em&gt; supplement to create new books designed exclusively for the Dolmenwood setting. However, I wanted to demonstrate that while that is certainly &lt;em&gt;cool&lt;/em&gt;, and something I definitely intend to do, it isn&amp;rsquo;t actually &lt;em&gt;necessary&lt;/em&gt;. It is already possible to play in the setting using nothing but the character playbooks available in the published game.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Hunters Den</title>
       <link>https://lamashtancult.com/posts/hunters-den/</link>
       <pubDate>Tue, 21 Jul 2026 11:21:07 -0300</pubDate>

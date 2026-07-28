@@ -19,7 +19,7 @@ _Faaaaaaaae!!!_
 
 For a long time, I’ve had a huge desire to run the hexcrawl from the Dolmenwood campaign book, a setting that is incredibly dense and rich in detail and relationships, featuring that [faerie theme I love so much and find so fitting for this type of game](https://medium.com/@vitoriafaria/osr-e-contos-de-fadas-ddf57d3b4ee7). There was no way I wouldn't be intrigued by the concept.
 
-One problem, however, is that Dolmenwood, as a system—is a B/X clone that’s a bit too "pure" for my players. I’ve tried running OSE almost RAW (Rules As Written) at home, and it became clear that even those who understood the premise didn't exactly enjoy the fragility, the lack of mechanical options at lower levels, and the constant need to manage hirelings.
+One problem, however, is that Dolmenwood, as a system, is a B/X clone that’s a bit too "pure" for my players. I’ve tried running OSE almost RAW (Rules As Written) at home, and it became clear that even those who understood the premise didn't exactly enjoy the fragility, the lack of mechanical options at lower levels, and the constant need to manage hirelings.
 
 On the other hand, I’ve been running quite a few *Beyond the Wall* one-shots lately. It’s impressive what a difference a d10 Hit Die, Luck Points, and skills with better odds than a coin flip make, especially in a game that is still relatively similar and carries that same fantasy aesthetic involving creatures from the faerie realm.
 
@@ -37,7 +37,7 @@ Let’s focus on ancestries for today.
 
 Humans in Dolmenwood have their own special traits; one is *Decisive*, which improves their initiative. To keep things as idiomatic as possible for *Beyond the Wall* without overcomplicating matters, I decided to use the inverse of this trait as a weakness for Dolmenwood’s other mortal ancestries. Since initiative is static in the target game, this is a significant weakness that I believe sufficiently balances out the positive traits. As for the faerie ancestries, most already possess a notable set of weaknesses, so I did not deem it necessary to add another.
 
-The Elves of *Beyond the Wall* already closely resemble those of Dolmenwood—creatures closer to fairy-tale figures than the Tolkien-esque figures found in most settings—so I believe they require no significant adjustments.
+The Elves of *Beyond the Wall* already closely resemble those of Dolmenwood, creatures closer to fairy-tale figures than the Tolkien-esque figures found in most settings, so I believe they require no significant adjustments.
 
 I characterized the remaining ancestries as follows:
 
@@ -51,7 +51,9 @@ They are essentially an excuse to play as the Cheshire Cat from *Alice in Wonder
 
 **Small Stature** — Grimalkins are small creatures, so they cannot use large weapons that deal d10 damage.
 
-**Hard to Catch** — Grimalkins are small, granting them a +1 bonus to AC. **Vulnerable to Meteoric Iron** — As creatures of the fey realm, they take double damage from any weapon made of meteoric iron.
+**Hard to Catch** — Grimalkins are small, granting them a +1 bonus to AC. 
+
+**Vulnerable to Meteoric Iron** — As creatures of the fey realm, they take double damage from any weapon made of meteoric iron.
 
 **Chester Form** — In one round, it can transform into a Small Animal (cat). It can also transform back in one round.
 
@@ -148,7 +150,7 @@ Mighty Runes — Become level 10 rituals (Charisma check)
 
 ### Magic in general
 
-Of course, it is possible to convert classic arcane and divine spells as well; since both games are variations of classic D&D, this isn't necessary for most spells, as they already have counterparts between the systems—but for those that don't:
+Of course, it is possible to convert classic arcane and divine spells as well; since both games are variations of classic D&D, this isn't necessary for most spells, as they already have counterparts between the systems, but for those that don't:
 
 Rank 1 and 2 spells — Become spells.
 

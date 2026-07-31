@@ -7,7 +7,7 @@ subtitle: "Just chillin' in a living world"
 ---
 I have voiced in the past my distaste for the old OSR manifestos and how they frame their idea of play, so today I decided to be a little more positive and try to state one of the reasons I like OSR games and were is the draw to me, instead. Even if it diverges a bit from the current zeitgeist for the scene.
 
-Distilling the thought to a minimum, I enjoy the idea of a living world, with an internally consistent logic that exists independently from the players, and in many ways, even independently from the referee, in which the PCs decisions come purely out their own agency in the context of that word. i.e. I enjoy *ye olde* gygaxian naturalism.
+Distilling the thought to a minimum, I enjoy the idea of a living world, with an internally consistent logic that exists independently from the players, and in many ways, even independently from the referee, in which the PCs decisions come purely out their own agency in the context of that world. i.e. I enjoy *ye olde* gygaxian naturalism.
 
 Turns out, weirdly, that even in the *Year of Our Lord Twenty Twenty Six* old D&D, and iterations of it, are still some of the most idiomatic implementations of that idea. Tools like *reactions, morale, random encounter tables* and the like are still truly great tools to invoke it. Also, there are no intrusive mechanics to undermine it, nothing that implies players are interacting with anything but a living, breathing world, there's no *story* being told here, beyond the one you can tell after the fact. So there are no narrative tools to imply that is what is actually happening.
 

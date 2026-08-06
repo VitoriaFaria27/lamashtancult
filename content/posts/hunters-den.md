@@ -1,9 +1,9 @@
 ---
-title: "Hunters Den"
+title: "Hunter's Den"
 date: 2026-07-21T11:21:07-03:00
 author: Vitoria Faria
 draft: false
-subtitle: a small dungeon for one shots
+subtitle: A small dungeon for one shots
 ---
 So, a couple of weeks ago I had a Draw Steel session in which shoving a moist basilisk's tongue into a taxidermied dragon's head didn't actually make it come back alive and talk.
 
